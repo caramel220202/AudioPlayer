@@ -11,7 +11,7 @@ PlayList 화면과 Player 화면 간의 전환 하게 하였고, Seekbar 를 cus
 
 
 ## 배우게 된것
-* Exoplayer 사용하기 (2)
+* Exoplayer
   - custom controller
 
   - Playlist 등
